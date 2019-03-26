@@ -1,0 +1,13 @@
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\bin\Release\Project2.exe.config
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\bin\Release\Project2.exe
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\bin\Release\Project2.pdb
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\MainWindow.g.cs
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\App.g.cs
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\Project2_MarkupCompile.cache
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\Project2_MarkupCompile.lref
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\MainWindow.baml
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\Project2.g.resources
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\Project2.Properties.Resources.resources
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\Project2.csproj.GenerateResource.Cache
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\Project2.exe
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Release\Project2.pdb

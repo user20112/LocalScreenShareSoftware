@@ -1,0 +1,70 @@
+Project List:
+
+Tag (4 programmers)
+The server runs a TCP server.  Clients log on with TCP and the server adds the client to a list.  
+Clients send a keystroke commands using UDP.  
+The server accepts the UDP messages and iterates through the list of connected clients, 
+sending updates to all other clients using UDP sendto.  The server keeps track of game logic and who is “it”.  
+
+Programmers 
+	Server (2)
+	TCP server and keep track of who is logged on
+	UPD sendto to update clients
+	Game logic
+
+	Client (2)
+	Console application in C++
+	GUI application in C#
+	
+File server (3 programmers)
+The server runs a TCP server.  Clients log on using TCP and receive a list of files using TCP.  
+All commands are sent using TCP, such as request of file.  File data is transferred using UDP.  
+
+Chat room (3 programmers) 
+Clients log on using TCP.  List of other clients sent using TCP.  
+Clients can select another user to chat with using TCP.  
+TCP commands include request for chat and accept or reject chat.  
+Communication between clients using UDP send to and receive from.   
+
+Web server and client (2 programmers) 
+TCP communication all the way.  The server should work with basic commands from Chrome or another browser.  
+Client code will display web pages based on content.  TCP session does not stay open after a page is loaded.  
+
+Sending of:
+
+	2 html pages – home and about
+	1 CSS file
+
+Implement
+	OK
+	Not found
+
+Audio file server OR audio chat (3 programmers)
+This is a C# WinForms project.   
+Until the audio is working, client and server implement a protocol for chatting and sending commands.  
+
+	Client
+	Server
+	Audio researcher (NAudio)
+
+
+Schedule:
+
+Week 1:
+Demonstration of connectivity:  sending messages via TCP and UDP.  Define and document the protocol.  
+
+Week 2:
+Implementation of protocol over UDP and TCP.    
+
+Week 3:
+Working prototype
+
+Week 4:
+Project completion
+
+GRADING:
+Pending
+
+
+
+

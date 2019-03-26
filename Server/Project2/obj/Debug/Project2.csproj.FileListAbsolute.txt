@@ -1,0 +1,100 @@
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe.config
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.pdb
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\MainWindow.g.cs
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\App.g.cs
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2_MarkupCompile.cache
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2_MarkupCompile.lref
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\MainWindow.baml
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.g.resources
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\NHTI\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\NHTI\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\MainWindow.g.cs
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\App.g.cs
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2_MarkupCompile.cache
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2_MarkupCompile.lref
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\MainWindow.baml
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2.g.resources
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\NHTI\Desktop\Project2\Project2\obj\Debug\Project2.pdb
+F:\Project2\Project2\bin\Debug\Project2.exe.config
+F:\Project2\Project2\bin\Debug\Project2.exe
+F:\Project2\Project2\bin\Debug\Project2.pdb
+F:\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+F:\Project2\Project2\obj\Debug\MainWindow.g.cs
+F:\Project2\Project2\obj\Debug\App.g.cs
+F:\Project2\Project2\obj\Debug\Project2_MarkupCompile.cache
+F:\Project2\Project2\obj\Debug\Project2_MarkupCompile.lref
+F:\Project2\Project2\obj\Debug\MainWindow.baml
+F:\Project2\Project2\obj\Debug\Project2.g.resources
+F:\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+F:\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+F:\Project2\Project2\obj\Debug\Project2.exe
+F:\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\MainWindow.g.cs
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\App.g.cs
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2_MarkupCompile.cache
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2_MarkupCompile.lref
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\MainWindow.baml
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2.g.resources
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\NHTI\Desktop\Project2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\MainWindow.g.cs
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\App.g.cs
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2_MarkupCompile.cache
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2_MarkupCompile.lref
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\MainWindow.baml
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2.g.resources
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\NHTI\Desktop\Project2Server\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\MainWindow.g.cs
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\App.g.cs
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2_MarkupCompile.cache
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2_MarkupCompile.lref
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\MainWindow.baml
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.g.resources
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\NHTI\Desktop\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\MainWindow.g.cs
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\App.g.cs
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2_MarkupCompile.cache
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2_MarkupCompile.lref
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\MainWindow.baml
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.g.resources
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\NHTI\Desktop\GitlitzProject\FinalProject\Project2Server\Project2\Project2\obj\Debug\Project2.pdb
